@@ -1,0 +1,7 @@
+body{background-color: #A3FDDB;}
+h1 {color: #6A70FF; font-family: Futura; font-size: 30px}
+p {color: #FD027C; font-family: Helvetica; font-size: 16px}
+img {margin-left: 150px;border-color: #BB69FF; border-width: 10px; border-style: solid}
+ul {color: #029D4B}
+a {color: #00A6FE; font-family: Helvetica; text-decoration: none}
+a:hover {color: #029D4B; text-decoration: underline;}
